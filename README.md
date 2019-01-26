@@ -17,6 +17,7 @@ you have to:
 6. Go to the Button Right next to the Tree Symbol,
    this is the place where you can select the Macro Blocks
 
+
 How to create a 64x64 Map ?
 
 Go to https://openplanet.nl/ and download this cool mod for Maniaplanet.
